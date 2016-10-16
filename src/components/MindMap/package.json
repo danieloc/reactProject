@@ -1,0 +1,6 @@
+{
+  "name": "Mindmap",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./MindMap.js"
+}
